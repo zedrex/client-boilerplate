@@ -2,8 +2,8 @@
 
 ## Usage
 ```
-git clone https://github.com/zedrex/frontend-boilerplate.git
-cd frontend-boilerplate
+git clone https://github.com/zedrex/client-boilerplate.git
+cd client-boilerplate
 npm install
 npm run start
 ```
