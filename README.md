@@ -5,7 +5,12 @@ This project was bootstrapped with
 [Create Frontend App](https://github.com/zedrex/create-frontend-app).
 
 ## Usage
-Run `npx create-frontend-app` and it will create a project folder named `client` with the bootstrap.
+```
+git clone https://github.com/zedrex/frontend-boilerplate.git
+cd frontend-boilerplate
+npm install
+npm run start
+```
 
 ## Stack
 
