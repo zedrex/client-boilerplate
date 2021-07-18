@@ -1,9 +1,5 @@
 [![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
 
-
-This project was bootstrapped with
-[Create Frontend App](https://github.com/zedrex/create-frontend-app).
-
 ## Usage
 ```
 git clone https://github.com/zedrex/frontend-boilerplate.git
